@@ -55,3 +55,4 @@ This grpc-example for mac (M1/M2) using the Java language.
   </plugins>
 </build>
 ```
+And then 'reimport'
